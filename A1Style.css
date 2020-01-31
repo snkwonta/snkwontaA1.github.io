@@ -1,0 +1,23 @@
+body {
+    color: white;
+    font: 18px Avenir;
+    background: url(http://getwallpapers.com/wallpaper/full/8/a/f/1328589-widescreen-phoenix-suns-wallpaper-hd-1920x1080.jpg);
+}
+
+#main {
+    min-height: 15px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-flow: row;
+}
+
+header, footer {
+    display: block;
+    margin: 4px;
+    padding: 5px;
+    min-height: 5px;
+    border: 1px solid #eebb55;
+    border-radius: 7pt;
+    background: orange;
+}
