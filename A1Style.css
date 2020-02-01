@@ -21,3 +21,12 @@ header, footer {
     border-radius: 7pt;
     background: orange;
 }
+
+.item{
+    width: 200px;
+    text-align: center;
+    display: block;
+    margin-right:10px;
+    margin-bottom:1px;
+    float:left;
+}
